@@ -1,0 +1,26 @@
+<annotation>
+	<folder>help</folder>
+	<filename>help.719096af-d53a-11ed-b18f-6057187d7bf6.jpg</filename>
+	<path>C:\Users\eriku\OneDrive\Desktop\YEAR 3\CN6000 HAND RECOGNITION\TFODCourse\Tensorflow\workspace\images\collectedimages\help\help.719096af-d53a-11ed-b18f-6057187d7bf6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Help</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>248</ymin>
+			<xmax>473</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

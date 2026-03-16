@@ -1,0 +1,26 @@
+<annotation>
+	<folder>love</folder>
+	<filename>love.e92e1e68-d538-11ed-a78c-6057187d7bf6.jpg</filename>
+	<path>C:\Users\eriku\OneDrive\Desktop\YEAR 3\CN6000 HAND RECOGNITION\TFODCourse\Tensorflow\workspace\images\collectedimages\love\love.e92e1e68-d538-11ed-a78c-6057187d7bf6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Love</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>352</ymin>
+			<xmax>425</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
